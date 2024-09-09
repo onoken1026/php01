@@ -10,7 +10,6 @@
 ## ③DEMO
 http://gsacademy-ko.sakura.ne.jp/php01/php01/post.php
 
-※サイトを立ち上げてからカレンダーが開くまで少し時間を要します。
 
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
